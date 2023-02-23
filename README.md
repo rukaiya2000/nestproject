@@ -2,10 +2,10 @@
 # NestJs Final Assessment
 
 ### 1. About application
-This project has primarily 3 tables, i.e, Products, Orders, Customers. We were supposed to make 3 endpoint for the project withe the authentication using jwt token
+This project has primarily 3 tables, i.e, Products, Orders, Customers. I have made 3 endpoint for the project withe the authentication using jwt token
 ### 2. Features
 #### Compression
-I added gzip compression for optimization
+Added gzip compression for optimization
 #### Caching
 caching is setup locally
 ### 3. Local setup
@@ -13,13 +13,13 @@ caching is setup locally
 Clone the project
 
 ```bash
-  git clone https://github.com/ncompass-ts/team-adept.git nestjs-assessment-rukaiya
+  git clone https://github.com/rukaiya2000/nestproject.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd nestjs-assessment-rukaiya
+  cd nestproject
 ```
 
 Install dependencies
