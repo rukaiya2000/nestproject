@@ -1,5 +1,5 @@
 
-# NestJs Final Assessment
+# NestJs 
 
 ### 1. About application
 This project has primarily 3 tables, i.e, Products, Orders, Customers. I have made 3 endpoint for the project withe the authentication using jwt token
